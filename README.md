@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Mahidharsuri/Mahidharsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mahidharsuri
 
-Here are some ideas to get you started:
+🚀 Blockchain Developer | Web3 | Smart Contracts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🔗 Passionate about Blockchain
+- 🧠 Smart contract developer
+- ⚡ Focus on security & clean architecture
+- 🌱 Always learning new Web3 tech
+
+---
+
+## 🛠️ Tech Stack
+- Solidity
+- Ethereum
+- Ethers.js
+- Web3.js
+
+---
+
+## 📌 Services
+- Smart Contract Development
+- Smart Contract Audit
+- dApp Development
+- Web3 Integration
